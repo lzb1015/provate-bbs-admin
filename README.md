@@ -21,7 +21,7 @@ vue3 + pinia + vue-router  + element-plus + wangEditor + axios + scss
 ## 项目运行
 
 ```
-git clone https://gitee.com/piecemeals/provate-bbs-admin.git
+git clone https://github.com/lzb1015/provate-bbs-admin.git
 
 cd provate-bbs-admin
 
@@ -36,7 +36,7 @@ npm run serve
 
 项目运行需要配置服务读一起运行，服务端地址：
 
-https://gitee.com/piecemeals/provate-bbs-server
+https://github.com/lzb1015/provate-bbs-server
 
 ## 部分效果展示
 
@@ -64,8 +64,8 @@ https://gitee.com/piecemeals/provate-bbs-server
 
 新手做的项目，很多地方都不足
 
-provateBBS 项目地址：https://gitee.com/piecemeals/provate-bbs.git
+provateBBS 项目地址：https://github.com/lzb1015/provate-bbs
 
-provateBBS-server 项目地址：https://gitee.com/piecemeals/provate-bbs-server.git
+provateBBS-server 项目地址：https://github.com/lzb1015/provate-bbs-server
 
-provate-bbs-admin 项目地址：https://gitee.com/piecemeals/provate-bbs-admin.git
+provate-bbs-admin 项目地址：https://github.com/lzb1015/provate-bbs-admin
